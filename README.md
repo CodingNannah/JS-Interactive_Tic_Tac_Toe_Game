@@ -8,6 +8,7 @@ styling done & logic begins: 25:08
 
 I like this color: background-color: rgba(0, 52, 53);
 And this color: background-color: rgba(0, 2, 53);
+background-color:rgb(53, 154, 216);
 
 Problem with the way he did the visibility. I found the solution here: https://stackoverflow.com/questions/20598568/
 

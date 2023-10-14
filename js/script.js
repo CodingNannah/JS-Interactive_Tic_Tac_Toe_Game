@@ -70,7 +70,7 @@ function endGame(draw) {
 }
 
 function isDraw() {
-    // cellElements does not have and every method, get around it with destructuring into an array
+    // cellElements does not have an every method, get around it with destructuring into an array
     return [...cellElements].every(cell => {
         return cell.classList.contains(X_CLASS) || cell.classList.contains(CIRCLE_CLASS)
     })
